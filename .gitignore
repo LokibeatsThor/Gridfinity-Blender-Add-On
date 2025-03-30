@@ -109,7 +109,7 @@ ipython_config.py
 #   https://pdm.fming.dev/#use-with-ide
 .pdm.toml
 
-# PEP 582; used by e.g. github.com/David-OConnor/pyflow and github.com/pdm-project/pdm
+
 __pypackages__/
 
 # Celery stuff
@@ -164,18 +164,17 @@ cython_debug/
 *.blend@
 *.blend~
 
-# Cache and logs
+
 __pycache__/
 *.pyc
 *.log
 
-# OS-specific files
+
 .DS_Store
 Thumbs.db
 
-# VSCode / IDE settings (if you use one)
+# VSCode / IDE settings 
 .vscode/
 .idea/
 
-# Zip files (optional – ignore addon exports)
 *.zip
