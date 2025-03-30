@@ -1,2 +1,17 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+# Normalize line endings
+* text=auto
+
+# Treat Python files as text
+*.py text
+
+# Treat Blender files as binary (if you add any .blend files later)
+*.blend binary
+
+# Exclude zip files from diff (optional, if you version zipped releases)
+*.zip binary
+
+# Mark README and LICENSE as UTF-8
+README.md text eol=lf
+LICENSE text eol=lf
