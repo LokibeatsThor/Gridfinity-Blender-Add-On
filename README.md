@@ -1,7 +1,17 @@
 # Gridfinity Tile Generator (Blender Addon)
 [![Blender 4.3+](https://img.shields.io/badge/Blender-4.3%2B-orange)](https://www.blender.org/)
 
-This is my **first Blender add-on project** — a tool that generates Gridfinity-compatible base tiles inside Blender with adjustable rows, columns, and optional magnet holes.
+This is my **first Blender add-on project** — a tool that generates Gridfinity-compatible base tiles inside Blender with adjustable rows, columns, and optional magnet holes. More to come but, I figured I would put the bones out there and see if anyone wanted to make some improvments.
+
+## 🙏 Credit
+
+This project was inspired by the brilliant [Gridfinity system](https://zackfreedman.com/gridfinity/) created by [Zack Freedman](https://www.youtube.com/@ZackFreedman).
+
+Be sure to check out his content:
+- 🎥 [YouTube Channel](https://www.youtube.com/@ZackFreedman) – for in-depth videos and maker magic.
+- 🌐 [Gridfinity Homepage](https://zackfreedman.com/gridfinity/) – for models, specs, and resources.
+
+Huge thanks to Zack for sparking the idea!
 
 This Blender addon allows you to quickly generate customizable Gridfinity base tiles with optional magnet holes, directly inside the 3D Viewport. Perfect for makers, 3D printing enthusiasts, and anyone building modular Gridfinity-style organization systems.
 
